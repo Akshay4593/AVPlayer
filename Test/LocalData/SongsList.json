@@ -1,0 +1,20 @@
+
+{
+  "songs": [
+    {
+      "artist": "Linkin Park",
+      "title": "Numb",
+      "url": "http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3"
+    },
+    {
+      "artist": "Maroon 5",
+      "title": "Moves Like Jagger",
+      "url": "http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "title": "Believer",
+      "url": "http://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3"
+    }
+  ]
+}
